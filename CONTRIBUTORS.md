@@ -4,4 +4,6 @@
 
 * [JirayuL](https://github.com/JirayuL)
 * [winChawakorn](http://github.com/winChawakorn)
-* [Contributor #3](http://LINK_HERE)
+* [dacharat](https://github.com/dacharat)
+* [ZivesO](https://github.com/ziveso)
+* [kykungz](https://github.com/kykungz)
