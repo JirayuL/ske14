@@ -1,4 +1,4 @@
-import { View,Text },ske14 from 'ske14'
+import { View, Text }, ske14 from 'ske14'
 console.log(ske14)
 console.log('ske14')
 
@@ -11,3 +11,5 @@ const Container = () => (
     <Text>New Container mock la</Text>
   </View>
 )
+
+export default SKE14
