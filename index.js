@@ -6,6 +6,7 @@ console.log('skec invasiton')
 console.log('me like tities milky');
 console.log('Fall of titties milky man');
 console.log('First Time Join Team');
+console.log('merge me');
 function SKE14() {
   return <View><Text>SKE14</Text></View>
 }
